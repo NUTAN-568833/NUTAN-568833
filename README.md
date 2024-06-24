@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NUTAN-568833
+- 👋 Hi, I’m @NUTAN Meena 
 - 👀 I’m interested in Webdevelopmentor some instant Coding
 - 🌱 I’m currently learning Python and Machin learning
 - 💞️ I’m looking to collaborate on 
